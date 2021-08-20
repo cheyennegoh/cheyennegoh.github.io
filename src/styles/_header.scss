@@ -1,7 +1,8 @@
 #particles-js {
-  background-image: "header.jpg";
+  background: url(#{$assetPath}/header.jpg);
   display: flex;
-  vertical-align: bottom;
+  vertical-align: top;
+  background-position: center;
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -12,34 +13,34 @@
 }
 
 .header {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Comfortaa', cursive;
   z-index: 1;
   text-align: center;
   color:#FFF;
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 50%;
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
-    font-size: 50px;
+    font-size: 30px;
     display: block;
     line-height: 1;
     color: #FFF;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 76px;
+      font-size: 48px;
     }
   }
   .site-description {
-    font-size: 20px;
+    font-size: 18px;
     display: block;
     line-height: 1;
     color: #FFF;
     margin-top: 10px;
     @media only screen and (min-width:$cut){
-      font-size: 34px;
+      font-size: 24px;
     }
   }
 }
@@ -104,7 +105,7 @@
 .down {
   color: #FFF;
   position: absolute;
-  bottom: 25px;
+  bottom: 0px;
   width: 100%;
   margin: 0 auto;
   display: block;

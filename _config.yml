@@ -1,16 +1,14 @@
 # Site settings
 title: Cheyenne Goh
-description: 
+description: UCalgary Software Engineering Student
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Cheyenne Goh
-user_description: I'm a third-year software engineering student with minor in mechatronics at the Schulich School of Engineering in the University of Calgary.
-user_title: UCalgary Software Engineering
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+user_description: I am a third-year student pursuing a BSc in Software Engineering with a minor in Mechatronics from the Schulich School of Engineering at the University of Calgary.
+user_title: UCalgary Software Engineering Student
+email: cheyennegoh@shaw.ca
+github_username: cheyennegoh
 
 exclude: ['package.json', 'src' , 'node_modules']

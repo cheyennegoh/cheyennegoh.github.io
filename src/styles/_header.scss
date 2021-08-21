@@ -6,7 +6,9 @@
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  @supports not (-webkit-touch-callout: none) {
+    background-attachment: fixed;
+  }
   .particles-js-canvas-el {
     height: 100vh !important;
   }

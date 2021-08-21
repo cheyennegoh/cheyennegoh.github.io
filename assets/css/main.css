@@ -3378,8 +3378,10 @@ sup, sub {
   background-position: center;
   min-height: 100vh;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed; }
+  background-size: cover; }
+  @supports not (-webkit-touch-callout: none) {
+    #particles-js {
+      background-attachment: fixed; } }
   #particles-js .particles-js-canvas-el {
     height: 100vh !important; }
 
@@ -3541,6 +3543,7 @@ sup, sub {
       color: #808db3; }
 
 #content {
+  width: 90%;
   margin: 0 auto;
   max-width: 960px; }
   @media only screen and (min-width: 768px) {

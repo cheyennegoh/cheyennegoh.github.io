@@ -3540,4 +3540,11 @@ sup, sub {
     .footer a:active {
       color: #808db3; }
 
+#content {
+  margin: 0 auto;
+  max-width: 960px; }
+  @media only screen and (min-width: 768px) {
+    #content {
+      width: 80%; } }
+
 /*# sourceMappingURL=main.css.map */

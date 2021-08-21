@@ -3545,11 +3545,7 @@ a {
   .footer a {
     text-decoration: none;
     margin: 0;
-    color: #FFF; }
-    .footer a:hover {
-      color: #808db3; }
-    .footer a:active {
-      color: #808db3; }
+    color: #808db3; }
 
 #content {
   width: 90%;

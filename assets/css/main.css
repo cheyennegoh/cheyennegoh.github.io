@@ -3505,12 +3505,6 @@ sup, sub {
     width: 60px !important;
     height: auto; }
 
-.tech {
-  margin: 10px;
-  flex: 1 1 0; }
-  .tech h2, .tech h3 {
-    font-weight: 400; }
-
 .user {
   text-align: center;
   font-size: 60px;

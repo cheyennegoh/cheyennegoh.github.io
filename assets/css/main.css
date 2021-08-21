@@ -3546,6 +3546,12 @@ a {
     text-decoration: none;
     margin: 0;
     color: #808db3; }
+    .footer a:hover {
+      color: #808db3; }
+    .footer a:active {
+      color: #808db3; }
+    .footer a:visited {
+      color: #808db3; }
 
 #content {
   width: 90%;

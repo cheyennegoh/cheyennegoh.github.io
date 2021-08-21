@@ -3541,7 +3541,7 @@ sup, sub {
       color: #808db3; }
 
 #content {
-  margin: 10px;
+  margin: 0 auto;
   max-width: 960px; }
   @media only screen and (min-width: 768px) {
     #content {

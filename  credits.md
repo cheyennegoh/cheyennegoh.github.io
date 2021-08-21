@@ -8,6 +8,6 @@ permalink: /credits/
 
 Built with Jekyll.
 
-Theme by [Mauricio Urraco](https://github.com/murraco/)
+Theme by [Mauricio Urraco](https://github.com/murraco/).
 
-Header photo by [Marcel Goh](https://marcelgoh.ca)
+Header photo by [Marcel Goh](https://marcelgoh.ca).

@@ -3337,6 +3337,15 @@ a img {
 sup, sub {
   line-height: 0; }
 
+a {
+  color: #808db3; }
+  a:hover {
+    color: #262d40; }
+  a:active {
+    color: #262d40; }
+  a:visited {
+    color: #262d40; }
+
 @-webkit-keyframes pulse {
   from {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";

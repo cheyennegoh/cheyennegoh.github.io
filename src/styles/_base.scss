@@ -47,3 +47,15 @@ a img {
 sup, sub {
     line-height: 0;
 }
+a {
+    color: $sec;
+    &:hover{
+        color: $main;
+    }
+    &:active {
+        color: $main;
+    }
+    &:visited {
+        color: $main;
+    }
+}

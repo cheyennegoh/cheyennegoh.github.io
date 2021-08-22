@@ -16,7 +16,6 @@
 
 .header {
   font-family: 'Comfortaa', cursive;
-  font-weight: 700;
   z-index: 1;
   text-align: center;
   color:#FFF;
@@ -28,6 +27,7 @@
   transform: translate(-50%, -50%);
   .site-title {
     font-size: 30px;
+    font-weight: 300;
     display: block;
     line-height: 1;
     color: #FFF;
@@ -35,9 +35,13 @@
       margin: 0;
       font-size: 48px;
     }
+    b {
+      font-weight: 700;
+    }
   }
   .site-description {
     font-size: 18px;
+    font-weight: 700;
     display: block;
     line-height: 1;
     color: #FFF;

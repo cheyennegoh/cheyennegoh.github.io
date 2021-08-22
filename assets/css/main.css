@@ -1,5 +1,5 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
-@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&display=swap");
 button, hr, input {
   overflow: visible; }
 
@@ -3300,13 +3300,12 @@ body {
   font-size: 100%;
   line-height: 1.5;
   color: #555;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400; }
+  font-family: 'Montserrat', sans-serif; }
 
 article, aside, figcaption, figure, footer, header, nav, section {
   display: block; }
 
-h1, h2, h3, h4, stong {
+h1, h2, h3, h4, strong {
   margin-top: 1em;
   padding-top: 1em;
   line-height: 1.25;
@@ -3396,6 +3395,7 @@ a {
 
 .header {
   font-family: 'Comfortaa', cursive;
+  font-weight: 300;
   z-index: 1;
   text-align: center;
   color: #FFF;
@@ -3536,12 +3536,21 @@ a {
   .user-details h1 {
     font-weight: 400; }
 
+#content {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 960px; }
+  @media only screen and (min-width: 768px) {
+    #content {
+      width: 80%; } }
+
 .footer {
   background: #262d40;
   padding: 10px 0;
   margin-top: 100px;
   text-align: center;
-  color: #FFF; }
+  color: #FFF;
+  font-weight: 400; }
   .footer a {
     text-decoration: none;
     margin: 0;
@@ -3552,13 +3561,5 @@ a {
       color: #808db3; }
     .footer a:visited {
       color: #808db3; }
-
-#content {
-  width: 90%;
-  margin: 0 auto;
-  max-width: 960px; }
-  @media only screen and (min-width: 768px) {
-    #content {
-      width: 80%; } }
 
 /*# sourceMappingURL=main.css.map */

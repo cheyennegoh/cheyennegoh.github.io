@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cheyenne Goh - Credits"
+title: "Credits - Cheyenne Goh"
 permalink: /credits/
 ---
 

@@ -62,7 +62,7 @@ Since moving from Singapore to Canada in 2003, I have been to six provinces acro
 
 ### Video Games
 
-I enjoy playing video games even though I am objectively terrible at them (someone once said to me, "I never seen someone so bad at video games before--I didn't know it was possible..."). My favourites include Persona 4 Golden, GRID Autosport, Mario Kart 7, Super Smash Bros. Melee, Pokémon Ruby, and osu!. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/628005941534523396/)]
+I enjoy playing video games even though I am objectively terrible at them (someone once said to me, "I never seen someone so bad at video games before--I didn't know it was possible..."). My favourites include Persona 4 Golden, GRID Autosport, Mario Kart 7, Super Smash Bros. Melee, Pokémon Ruby, and osu!. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/879521770699390996/)]
 
 ### Cycling
 

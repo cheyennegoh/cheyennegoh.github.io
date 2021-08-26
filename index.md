@@ -56,7 +56,7 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 ## Travel
 
-Since moving from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years. In total, I have set foot in 29 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, France, Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
+Since moving from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years. In total, I have set foot in 29 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, France, the Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
 
 ## Interests
 

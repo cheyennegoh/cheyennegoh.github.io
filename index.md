@@ -46,6 +46,7 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 <div class ="athleticSlide">
 <img src="/assets/images/shorttrack.jpg">
+<img src="/assets/images/duathlon.jpg">
 <img src="/assets/images/road.jpg">
 </div>
 

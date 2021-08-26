@@ -3416,7 +3416,7 @@ a {
 
 .athleticSlide img {
   position: absolute;
-  animation: athleticSlide 10s infinite;
+  animation: athleticSlide 15s infinite;
   opacity: 0;
   width: 100%;
   height: auto; }
@@ -3424,18 +3424,21 @@ a {
 @keyframes athleticSlide {
   0% {
     opacity: 1; }
-  50% {
+  33% {
     opacity: 1; }
-  60% {
+  43% {
     opacity: 0; }
   90% {
     opacity: 0; }
   100% {
     opacity: 1; } }
 .athleticSlide img:nth-child(1) {
-  animation-delay: -10s; }
+  animation-delay: -15s; }
 
 .athleticSlide img:nth-child(2) {
+  animation-delay: -10s; }
+
+.athleticSlide img:nth-child(3) {
   animation-delay: -5s; }
 
 @-webkit-keyframes pulse {

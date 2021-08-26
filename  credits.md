@@ -14,4 +14,4 @@ Domain courtesy of [Dot TK](http://www.dot.tk).
 
 Header image by [Marcel Goh](https://marcelgoh.ca).
 
-Photos by Cal Sport Media / Alamy Stock Photo and Ivan Rupes
+Photos by Cal Sport Media / Alamy Stock Photo, Joanne Loh, and Ivan Rupes

@@ -8,6 +8,16 @@ Majority of my university courses were conducted in either Java or C/C++. Howeve
 
 ## Projects
 
+### *RENT'R'US* (ENSF 480 F21)
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Zij8uwpPohE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+A Java implementation of a rental property management system for renters to browse properties and for landlords and property managers to post and manage their listings with an intuitive graphical user interface.
+
+**Tools used:** Java, MySQL, Git
+
 ### *Faculty FrankenFurniture Finder* (HYL Hackathon 2021)
 
 <div class="videoWrapper">

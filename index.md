@@ -11,9 +11,9 @@ Majority of my university courses were conducted in either Java or C/C++. I also
 ### *[Estates](https://estatesdomain.herokuapp.com)* (CPSC 471 W22)
 
 <div class ="estatesSlide">
-<img src="/assets/images/estates1.png">
-<img src="/assets/images/estates2.png">
-<img src="/assets/images/estates3.png">
+<img src="/assets/images/estates1.jpg">
+<img src="/assets/images/estates2.jpg">
+<img src="/assets/images/estates3.jpg">
 </div>
 
 A real estate web application implemented using the MERN stack for buyers, sellers, and realtors to browse, buy, and sell properties.

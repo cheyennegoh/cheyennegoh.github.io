@@ -8,6 +8,18 @@ Majority of my university courses were conducted in either Java or C/C++. I also
 
 ## Projects
 
+### *[Estates](https://estatesdomain.herokuapp.com)* (CPSC 471 W22)
+
+<div class ="estatesSlide">
+<img src="/assets/images/estates1.png">
+<img src="/assets/images/estates2.png">
+<img src="/assets/images/estates3.png">
+</div>
+
+A real estate web application implemented using the MERN stack for buyers, sellers, and realtors to browse, buy, and sell properties.
+
+**Tools used:** ReactJS, NodeJS, ExpressJS, MongoDB Atlas, Git
+
 ### *[BetterBoxd](http://34.123.193.204:3000)* (SENG 401 W22)
 
 <div class="videoWrapper">

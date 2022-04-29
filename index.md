@@ -18,7 +18,7 @@ Majority of my university courses were conducted in either Java or C/C++. I also
 
 A real estate web application implemented using the MERN stack for buyers, sellers, and realtors to browse, buy, and sell properties.
 
-**Tools used:** ReactJS, NodeJS, ExpressJS, MongoDB Atlas, Git
+**Tools used:** ReactJS, NodeJS, ExpressJS, MongoDB Atlas, Git  
 **Collaborators:** Jacob Nguyen and Adeshpal Virk
 
 ### *[BetterBoxd](http://34.123.193.204:3000)* (SENG 401 W22)
@@ -40,7 +40,7 @@ A movie discovery and social media web application for users to browse through m
 
 A Java implementation of a rental property management system for renters to browse properties and for landlords and property managers to post and manage their listings with an intuitive graphical user interface.
 
-**Tools used:** Java, MySQL, Git
+**Tools used:** Java, MySQL, Git  
 **Collaborators:** Divyansh Goyal, Rui Guan, and Sajid Hafiz
 
 
@@ -52,7 +52,7 @@ A Java implementation of a rental property management system for renters to brow
 
 A user-friendly application that facilitates the supply chain management of furniture inventory in an SQL database by receiving requests, computing the most cost-effective order fulfilment, modifying the database, and producing an order form.
 
-**Tools used:** Java, MySQL, Git
+**Tools used:** Java, MySQL, Git  
 **Collaborators:** Carter Fuchs, Habib Jinadu, and Logan Lones
 
 ### *Digital Dashboard* (ENGG 233 F18)

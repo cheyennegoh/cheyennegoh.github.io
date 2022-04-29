@@ -8,6 +8,16 @@ Majority of my university courses were conducted in either Java or C/C++. I also
 
 ## Projects
 
+### *[BetterBoxd](http://34.123.193.204:3000)* (SENG 401 W22)
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FmugQjqy9NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+A movie discovery and social media web application for users to browse through movies, read reviews, create and view lists of movies, and log movies into their own personal journal.
+
+**Tools used:** ReactJS, ExpressJS, MongoDB Atlas, Redis, Git
+
 ### *RENT'R'US* (ENSF 480 F21)
 
 <div class="videoWrapper">

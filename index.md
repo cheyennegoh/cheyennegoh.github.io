@@ -4,7 +4,7 @@ title: Cheyenne Goh
 ---
 
 ## Skills
-Majority of my university courses were conducted in either Java or C/C++. However, during my internship I programmed primarily in Python. My industry experience includes writing software to manage MySQL databases and programming PLCs using ladder logic. I am proficient with graphic design software, including Adobe Photoshop and Inkscape, as well.
+Majority of my university courses were conducted in either Java or C/C++. I also have front-end web development experience in ReactJS from collaborative class projects. At my summer student position, I programmed primarily in Python. My industry experience includes writing software to manage MySQL databases and programming PLCs using ladder logic. I am proficient with graphic design software, including Adobe Photoshop and Inkscape, as well.
 
 ## Projects
 

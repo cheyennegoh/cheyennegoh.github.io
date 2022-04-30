@@ -53,7 +53,7 @@ A Java implementation of a rental property management system for renters to brow
 A user-friendly application that facilitates the supply chain management of furniture inventory in an SQL database by receiving requests, computing the most cost-effective order fulfilment, modifying the database, and producing an order form.
 
 **Tools used:** Java, MySQL, Git  
-**Collaborators:** Carter Fuchs, Habib Jinadu, and Logan Lones
+**Collaborators:** Carter Fuchs, Habib Jinadu, and Logan Jones
 
 ### *Digital Dashboard* (ENGG 233 F18)
 

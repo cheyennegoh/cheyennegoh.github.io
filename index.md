@@ -29,7 +29,7 @@ A real estate web application implemented using the MERN stack for buyers, selle
 
 A movie discovery and social media web application for users to browse through movies, read reviews, create and view lists of movies, and log movies into their own personal journal.
 
-**Tools used:** ReactJS, ExpressJS, MongoDB Atlas, Redis, Git  
+**Tools used:** ReactJS, ExpressJS, MongoDB Atlas, Redis, Docker, Kubernetes, Git  
 **Collaborators:** Maxwell Botham, Michele Esercitato, Ethan Gill, Arne Hilao, Faisal Hossain, and Lucas Ion
 
 ### *RENT'R'US* (ENSF 480 F21)

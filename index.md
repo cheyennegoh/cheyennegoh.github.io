@@ -71,6 +71,7 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 ### Academic
 
+- **2021/2022 Schulich School of Engineering Dean's List** - Awardee
 - **Schulich School of Engineering Dean's Entrance Scholarship** - Awardee
 - **University of Calgary Entrance Scholarship** - Awardee
 - **Alexander Rutherford Scholarship** - Awardee

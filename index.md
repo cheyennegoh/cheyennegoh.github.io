@@ -21,7 +21,7 @@ A real estate web application implemented using the MERN stack for buyers, selle
 **Tools used:** ReactJS, NodeJS, ExpressJS, MongoDB Atlas, Git  
 **Collaborators:** Jacob Nguyen and Adeshpal Virk
 
-### *[BetterBoxd](http://34.123.193.204:3000)* (SENG 401 W22)
+### *BetterBoxd* (SENG 401 W22)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FmugQjqy9NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

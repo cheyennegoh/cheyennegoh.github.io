@@ -8,7 +8,7 @@ Majority of my university courses were conducted in either Java or C/C++. I also
 
 ## Projects
 
-### *[Estates](https://estatesdomain.herokuapp.com)* (CPSC 471 W22)
+### *Estates* (CPSC 471 W22)
 
 <div class ="estatesSlide">
 <img src="/assets/images/estates1.jpg">
@@ -21,7 +21,7 @@ A real estate web application implemented using the MERN stack for buyers, selle
 **Tools used:** ReactJS, NodeJS, ExpressJS, MongoDB Atlas, Git  
 **Collaborators:** Jacob Nguyen and Adeshpal Virk
 
-### *[BetterBoxd](http://betterboxd.com)* (SENG 401 W22)
+### *BetterBoxd* (SENG 401 W22)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FmugQjqy9NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,13 +94,13 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 ## Travel
 
-Since moving from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years. In total, I have set foot in 29 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, France, the Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
+Since moving from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years. In total, I have set foot in 30 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, Cuba, France, the Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
 
 ## Interests
 
 ### Video Games
 
-I enjoy playing video games even though I am objectively terrible at them (someone once said to me, "I never seen someone so bad at video games before--I didn't know it was possible..."). My proudest accomplishment has been sucessfully mapping my Logitech Driving Force GT racing wheel to Goat Simulator controls so I could drive the goat. My all-time favourite video games include Persona 4 Golden, GRID Autosport, Mario Kart 7, Super Smash Bros. Melee, Pokémon Ruby, Tetris, and osu!. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/628005941534523396/)]
+I enjoy playing video games even though I am objectively terrible at them (someone once said to me, "I never seen someone so bad at video games before--I didn't know it was possible!"). My proudest accomplishment has been sucessfully mapping my Logitech Driving Force GT racing wheel to Goat Simulator controls so I could drive the goat. My all-time favourite video games include Persona 4 Golden, Overwatch 2, GRID Autosport, Mario Kart 7, Super Smash Bros. Melee, Pokémon Ruby, Tetris, and osu!. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/628005941534523396/)]
 
 ### Cycling
 

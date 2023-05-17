@@ -12,4 +12,4 @@ Built with [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://p
 
 Header image by [Marcel Goh](https://marcelgoh.ca).
 
-Photos by Cal Sport Media / Alamy Stock Photo, Joanne Loh, and Ivan Rupes
+Photos by Cal Sport Media / Alamy Stock Photo, Joanne Loh, and Ivan Rupes.

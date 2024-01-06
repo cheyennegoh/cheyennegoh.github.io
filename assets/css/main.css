@@ -3333,6 +3333,13 @@ p, figure {
 a img {
   border: none; }
 
+img {
+  width: 100%;
+  height: auto; }
+  @media only screen and (min-width: 768px) {
+    img {
+      width: 75%; } }
+
 sup, sub {
   line-height: 0; }
 
@@ -3344,6 +3351,13 @@ a {
     color: #262d40; }
   a:visited {
     color: #262d40; }
+
+.portrait {
+  width: 75%;
+  height: auto; }
+  @media only screen and (min-width: 768px) {
+    .portrait {
+      width: 50%; } }
 
 .videoWrapper {
   position: relative;
@@ -3378,21 +3392,20 @@ a {
 .estatesSlide img {
   position: absolute;
   animation: estatesSlide 15s infinite;
+  animation-timing-function: ease-in-out;
   opacity: 0;
   width: 100%;
   height: auto; }
 
 @keyframes estatesSlide {
   0% {
+    opacity: 0; }
+  10% {
     opacity: 1; }
   33% {
     opacity: 1; }
   43% {
-    opacity: 0; }
-  90% {
-    opacity: 0; }
-  100% {
-    opacity: 1; } }
+    opacity: 0; } }
 .estatesSlide img:nth-child(1) {
   animation-delay: -15s; }
 
@@ -3416,21 +3429,20 @@ a {
 .digitalDashboardSlide img {
   position: absolute;
   animation: digitalDashboardSlide 15s infinite;
+  animation-timing-function: ease-in-out;
   opacity: 0;
   width: 100%;
   height: auto; }
 
 @keyframes digitalDashboardSlide {
   0% {
+    opacity: 0; }
+  10% {
     opacity: 1; }
   33% {
     opacity: 1; }
   43% {
-    opacity: 0; }
-  90% {
-    opacity: 0; }
-  100% {
-    opacity: 1; } }
+    opacity: 0; } }
 .digitalDashboardSlide img:nth-child(1) {
   animation-delay: -15s; }
 
@@ -3455,21 +3467,20 @@ a {
 .athleticSlide img {
   position: absolute;
   animation: athleticSlide 15s infinite;
+  animation-timing-function: ease-in-out;
   opacity: 0;
   width: 100%;
   height: auto; }
 
 @keyframes athleticSlide {
   0% {
+    opacity: 0; }
+  10% {
     opacity: 1; }
   33% {
     opacity: 1; }
   43% {
-    opacity: 0; }
-  90% {
-    opacity: 0; }
-  100% {
-    opacity: 1; } }
+    opacity: 0; } }
 .athleticSlide img:nth-child(1) {
   animation-delay: -15s; }
 

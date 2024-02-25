@@ -108,7 +108,7 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 Since emigrating from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years.
 
-In total, I have set foot in 30 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, Cuba, France, Greece, the Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
+In total, I have set foot in 32 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, Cuba, France, Greece, the Holy See (Vatican), Honduras, Hungary, Indonesia, Ireland, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
 
 I will be moving to Ireland in June 2024 to study at the University of Limerick. 
 
@@ -132,7 +132,7 @@ My photography journey began in 2007, when I received a pink toy camera from my 
 
 A few years later, I bought a black Sony Cyber-shot camera from the local Walmart. It was the first major (over CA$100!) purchase I'd ever made. Unfortunately, it fell off my lap and smashed against a tile floor during a family vacation to Florida, USA in 2011.
 
-Shortly after this, my dad got me an updated Sony Cyber-shot camera as a Christmas gift. The death of this camera was the most theatrical and tragic of all. It was a rainy day in New York City, USA. I was exploring the city with my brother, dad, and uncle. We were walking through Times Square when I saw a massive puddle. Naturally, I had the urge to jump over it. As I was jumping, the camera fell out of my pocket and into the puddle. I grabbed it out as quickly as I could, but it was too late. Slowly, the water seeped through its components. It took its last photograph in the American Museum of Natural History before dying in my clumsy arms.
+Shortly after this, my dad got me an updated Sony Cyber-shot camera as a Christmas gift. The death of this camera was the most theatrical and tragic of all. It was a rainy day in New York City, USA. I was exploring the city with my brother, dad, and uncle. We were walking through Times Square when I saw a massive puddle. Naturally, I had the urge to jump over it. As I was jumping, the camera fell out of my pocket and into the puddle. I grabbed it out as quickly as I could, but it was too late. Slowly, the water seeped through its components. It took its last photograph in the American Museum of Natural History before drawing its last breath in my clumsy arms.
 
 Despite my terrible track record, my passion for photography never died. These days, I shoot with a Olympus E-PL3 micro four-thirds digital camera and an Olympus OM-1n film camera. I love using them to capture memories of different people, places, and things. Thankfully, both these cameras have survived to this day.
 

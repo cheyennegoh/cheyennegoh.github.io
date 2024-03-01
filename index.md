@@ -118,7 +118,7 @@ I will be moving to Ireland in June 2024 to study at the University of Limerick.
 
 >***"I've never seen someone so bad at video games before---I didn't know it was possible!"*** -- A friend watching me try to play *The Stanley Parable*.
 
-I enjoy playing video games even though I am objectively not very good at them. My proudest accomplishment has been sucessfully mapping my Logitech Driving Force GT racing wheel to Goat Simulator controls so I could drive the goat. My all-time favourite video games include Persona 4 Golden, Overwatch 2, GRID Autosport, Mario Kart 7, Super Smash Bros. Melee, Pokémon Ruby, Tetris, KeyWe, and A Little to the Left. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/628005941534523396/)]
+I enjoy playing video games even though I am objectively not very good at them. My proudest accomplishment has been sucessfully mapping my Logitech Driving Force GT racing wheel to *Goat Simulator* controls so I could drive the goat. My all-time favourite video games include *Persona 4 Golden*, *Overwatch 2*, *GRID Autosport*, *Mario Kart 7*, *Super Smash Bros. Melee*, *Pokémon Ruby*, *Tetris*, *KeyWe*, and *A Little to the Left*. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/628005941534523396/)]
 
 **Consoles:** Nintendo Game Boy Color, Nintendo Game Boy Advance SP, Nintendo DS Lite, Nintendo 3DS, Nintendo GameCube, Sony PlayStation Vita, Sony PlayStation 4
 

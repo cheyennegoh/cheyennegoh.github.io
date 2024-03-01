@@ -8,7 +8,7 @@ Majority of the classes I've taken in university were conducted in either Java o
 
 During the summer of 2021, I worked a summer student position at Flexcim Services Inc., a small manufacturing company that specialises in injection moulding and CNC machining. I gained experience writing software in Python to manage MySQL databases and programming PLCs using ladder logic.
 
-From May 2022 to August 2023, I did a software internship at AMD. I contributed to [rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)/[hipFFT](https://github.com/ROCmSoftwarePlatform/hipFFT), an open-source library for computing Fast Fourier Transforms on AMD and Nvidia GPU devices. I developed skills in GPU programming using C++, as well as prototyping and performance testing using Python.
+From May 2022 to August 2023, I did a software internship at AMD. I contributed to [rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)/[hipFFT](https://github.com/ROCmSoftwarePlatform/hipFFT), an open-source library for computing Fast Fourier Transforms on AMD and NVIDIA GPU devices. I developed skills in GPU programming using C++, as well as prototyping and performance testing using Python.
 
 ## Projects
 

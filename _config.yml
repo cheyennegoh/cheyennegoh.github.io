@@ -1,13 +1,13 @@
 # Site settings
 title: Cheyenne Goh
-description: UCalgary Software Engineering Student
+description: UCalgary Software Engineering Graduate
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: http://cheyennegoh.com
 
 # User settings
 username: Cheyenne Goh
-user_description: I am a final-year student pursuing a BSc in Software Engineering with a minor in Mechatronics Engineering from the Schulich School of Engineering at the University of Calgary.
-user_title: UCalgary Software Engineering Student
+user_description: I recently graduated from the University of Calgary's Schulich School of Engineering with a Bachelor of Science in Software Engineering and a minor in Mechatronics.
+user_title: UCalgary Software Engineering Graduate
 email: cheyennegoh@cheyennegoh.com
 github_username: cheyennegoh
 

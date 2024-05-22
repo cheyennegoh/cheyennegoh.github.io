@@ -4,13 +4,22 @@ title: Cheyenne Goh
 ---
 
 ## Skills
-Majority of the classes I've taken in university were conducted in either Java or C/C++. I also have a practical understanding of front-end web development using ReactJS from collaborative term projects.
+Majority of the classes I took in my undergraduate degree were conducted in either Java or C/C++. I worked on academic projects that involved building machine learning models with TensorFlow and PyTorch, including my team's Capstone design project. I also have a practical understanding of front-end web development using ReactJS from collaborative term projects.
 
 During the summer of 2021, I worked a summer student position at Flexcim Services Inc., a small manufacturing company that specialises in injection moulding and CNC machining. I gained experience writing software in Python to manage MySQL databases and programming PLCs using ladder logic.
 
 From May 2022 to August 2023, I did a software internship at AMD. I contributed to [rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)/[hipFFT](https://github.com/ROCmSoftwarePlatform/hipFFT), an open-source library for computing Fast Fourier Transforms on AMD and NVIDIA GPU devices. I developed skills in GPU programming using C++, as well as prototyping and performance testing using Python.
 
 ## Projects
+
+### Wrist-based Gesture Recognition on Garmin Smartwatch - Sponsored by Garmin Canada (Engineering Design Fair 2024, 2nd Place)
+
+![Wrist-based Gesture Recognition on Garmin Smartwatch](/assets/images/wristbasedgesturerecognitionongarminsmartwatch.jpg)
+
+A system that uses machine learning to recognize gestures with a Garmin Venu 2 Plus smartwatch and execute associated actions on a paired Android smartphone.
+
+**Tools used:** PyTorch, TensorFlow Lite, Kotlin, Monkey C, PostgreSQL, Git  
+**Collaborators:** Maxwell Botham, Michele Esercitato, and Faisal Hossain
 
 ### [Flower Image Classification](https://github.com/cheyennegoh/Flower-Image-Classification) (ENEL 525 F23)
 
@@ -34,10 +43,6 @@ A real estate web application implemented using the MERN stack for buyers, selle
 **Collaborators:** Jacob Nguyen and Adeshpal Virk
 
 ### [BetterBoxd](https://github.com/Mik-Ese/BetterBoxd) (SENG 401 W22)
-
-<div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FmugQjqy9NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 A movie discovery and social media web application for users to browse through movies, read reviews, create and view lists of movies, and log movies into their own personal journal.
 
@@ -122,7 +127,7 @@ I enjoy playing video games even though I am objectively not very good at them. 
 
 **Consoles:** Nintendo Game Boy Color, Nintendo Game Boy Advance SP, Nintendo DS Lite, Nintendo 3DS, Nintendo GameCube, Sony PlayStation Vita, Sony PlayStation 4
 
-**PC:** AMD Radeon RX 6700 XT, AMD Ryzen 5 5600, 32 GB RAM
+**PCs:** AMD Radeon RX 6700 XT, AMD Ryzen 5 5600, 32 GB RAM; ROG Ally Z1 Extreme
 
 ### Photography
 
@@ -140,8 +145,6 @@ Despite my terrible track record, my passion for photography never died. These d
 
 ### Bouldering
 
-I started indoor bouldering recently and I've been enjoying it a lot. It's been an awesome way to get moving while also hanging out with friends. I love crimps and hate slopers.
+I started indoor bouldering recently and I've been enjoying it a lot. It's been an awesome way to hang out with friends and get off my sedentary butt. I love crimps and hate slopers.
 
-### Coaching
-
-I am currently an assistant coach for the Calgary Speed Skating Association. I coach the youngest group of skaters, aged 10 and under, on both short and long track. I am always  impressed by how quickly they learn and improve.
+![Bouldering](/assets/images/bouldering.jpg)

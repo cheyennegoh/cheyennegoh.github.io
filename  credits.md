@@ -12,4 +12,4 @@ Built with [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://p
 
 Header image by [Marcel Goh](https://marcelgoh.ca).
 
-Photos by Ethan McKinley-Young, [Cal Sport Media](https://www.alamy.com/stock-photo/?cid=XSH47RXL9V2F5GANBQKR3BNKNEBELXHKWJL9BTY3KW2SZLS2ED46G8W78MBP6BMQ&name=Cal+Sport+Media&sortBy=relevant) / Alamy Stock Photo, Joanne Loh, [Ivan Rupes](http://www.ivanrupes.com), and [Emma Kern](https://studioek.ca).
+Photos by Ethan McKinley-Young, [Cal Sport Media](https://www.alamy.com/stock-photo/?cid=XSH47RXL9V2F5GANBQKR3BNKNEBELXHKWJL9BTY3KW2SZLS2ED46G8W78MBP6BMQ&name=Cal+Sport+Media&sortBy=relevant) / Alamy Stock Photo, Joanne Loh, [Ivan Rupes](http://www.ivanrupes.com), [Emma Kern](https://studioek.ca), and [UCBoulder Club](https://www.instagram.com/ucboulder/).

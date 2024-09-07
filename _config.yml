@@ -1,13 +1,13 @@
 # Site settings
 title: Cheyenne Goh
-description: UCalgary Software Engineering Graduate
+description: Artificial Intelligence and Machine Learning Postgraduate Student
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: http://cheyennegoh.com
 
 # User settings
 username: Cheyenne Goh
-user_description: I recently graduated from the University of Calgary's Schulich School of Engineering with a Bachelor of Science in Software Engineering and a minor in Mechatronics.
-user_title: UCalgary Software Engineering Graduate
+user_description: I am currently pursuing a Master of Science in Artificial Intelligence and Machine Learning at the University of Limerick. I recently graduated from the University of Calgary's Schulich School of Engineering with a Bachelor of Science in Software Engineering and a minor in Mechatronics.
+user_title: Artificial Intelligence and Machine Learning Postgraduate Student
 email: cheyennegoh@cheyennegoh.com
 github_username: cheyennegoh
 

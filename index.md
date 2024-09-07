@@ -12,16 +12,18 @@ From May 2022 to August 2023, I did a software internship at AMD. I contributed 
 
 ## Projects
 
-### Wrist-based Gesture Recognition on Garmin Smartwatch - Sponsored by Garmin Canada (Engineering Design Fair 2024, 2nd Place)
+### [Wrist-based Gesture Recognition on Garmin Smartwatch](https://schulich.ucalgary.ca/sites/default/files/teams/4/2024%20Capstone/2024%20Capstone%20Projects/61875-14%20Wristbased%20Gesture%20Recognition%20on%20Garmin%20Smartwatch.pdf) (Engineering Design Fair 2024, University of Calgary)
 
 ![Wrist-based Gesture Recognition on Garmin Smartwatch](/assets/images/wristbasedgesturerecognitionongarminsmartwatch.jpg)
 
-A system that uses machine learning to recognize gestures with a Garmin Venu 2 Plus smartwatch and execute associated actions on a paired Android smartphone.
+A system that uses machine learning to recognize gestures with a Garmin Venu 2 Plus smartwatch and execute associated actions on a paired Android smartphone. 
+
+Placed 2nd in the Software Engineering category. Sponsored by Garmin Canada.
 
 **Tools used:** PyTorch, TensorFlow Lite, Kotlin, Monkey C, PostgreSQL, Git  
 **Collaborators:** Maxwell Botham, Michele Esercitato, and Faisal Hossain
 
-### [Flower Image Classification](https://github.com/cheyennegoh/Flower-Image-Classification) (ENEL 525 F23)
+### [Flower Image Classification](https://github.com/cheyennegoh/Flower-Image-Classification) (ENEL 525, University of Calgary)
 
 ![Flower Image Classification](/assets/images/flowersimagerecognition.jpg)
 
@@ -29,7 +31,7 @@ A machine learning model built using Python that uses a convolutional neural net
 
 **Tools used:** TensorFlow, scikit-learn, Matplotlib, NumPy, OpenCV
 
-### [Estates](https://github.com/jacob-kn/Estates) (CPSC 471 W22)
+### [Estates](https://github.com/jacob-kn/Estates) (CPSC 471, University of Calgary)
 
 <div class ="estatesSlide">
 <img src="/assets/images/estates1.jpg">
@@ -42,14 +44,14 @@ A real estate web application implemented using the MERN stack for buyers, selle
 **Tools used:** ReactJS, NodeJS, ExpressJS, MongoDB Atlas, Git  
 **Collaborators:** Jacob Nguyen and Adeshpal Virk
 
-### [BetterBoxd](https://github.com/Mik-Ese/BetterBoxd) (SENG 401 W22)
+### [BetterBoxd](https://github.com/Mik-Ese/BetterBoxd) (SENG 401, University of Calgary)
 
 A movie discovery and social media web application for users to browse through movies, read reviews, create and view lists of movies, and log movies into their own personal journal.
 
 **Tools used:** ReactJS, ExpressJS, MongoDB Atlas, Redis, Docker, Kubernetes, Git  
 **Collaborators:** Maxwell Botham, Michele Esercitato, Ethan Gill, Arne Hilao, Faisal Hossain, and Lucas Ion
 
-### [RENT'R'US](https://github.com/DG-20/ENSF-480-Term-Project) (ENSF 480 F21)
+### [Rent'R'Us](https://github.com/DG-20/ENSF-480-Term-Project) (ENSF 480, University of Calgary)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zij8uwpPohE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,8 +62,7 @@ A Java implementation of a rental property management system for renters to brow
 **Tools used:** Java, MySQL, Git  
 **Collaborators:** Divyansh Goyal, Rui Guan, and Sajid Hafiz
 
-
-### [Faculty FrankenFurniture Finder](https://github.com/March-27-Hackathon/supply-chain-management-habibjinadu) (HYL Hackathon 2021)
+### [Faculty FrankenFurniture Finder](https://github.com/March-27-Hackathon/supply-chain-management-habibjinadu) (HYL Hackathon 2021, University of Calgary)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wybm1jC9huU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -72,7 +73,7 @@ A user-friendly application that facilitates the supply chain management of furn
 **Tools used:** Java, MySQL, Git  
 **Collaborators:** Carter Fuchs, Habib Jinadu, and Logan Jones
 
-### [Digital Dashboard](https://github.com/cheyennegoh/Digital-Dashboard) (ENGG 233 F18)
+### [Digital Dashboard](https://github.com/cheyennegoh/Digital-Dashboard) (ENGG 233, University of Calgary)
 
 <div class ="digitalDashboardSlide">
 <img src="/assets/images/digitaldashboard1.png">
@@ -88,6 +89,10 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 ### Academic
 
+#### University of Limerick
+- **University of Limerick Postgraduate Scholarship for International Students** - Awardee
+
+#### University of Calgary
 - **2021/2022 Schulich School of Engineering Dean's List** - Awardee
 - **Schulich School of Engineering Dean's Entrance Scholarship** - Awardee
 - **University of Calgary Entrance Scholarship** - Awardee
@@ -111,11 +116,9 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 ## Travel
 
-Since emigrating from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years.
+Since emigrating from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years. In 2024, I moved to Ireland to undertake postgraduate studies.
 
-In total, I have set foot in 32 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, Cuba, France, Greece, the Holy See (Vatican), Honduras, Hungary, Indonesia, Ireland, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
-
-I will be moving to Ireland in June 2024 to study at the University of Limerick. 
+In total, I have set foot in 32 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, Cuba, France, Greece, the Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
 
 ## Interests
 
@@ -123,7 +126,7 @@ I will be moving to Ireland in June 2024 to study at the University of Limerick.
 
 >***"I've never seen someone so bad at video games before---I didn't know it was possible!"*** -- A friend watching me try to play *The Stanley Parable*.
 
-I enjoy playing video games even though I am objectively not very good at them. My proudest accomplishment has been sucessfully mapping my Logitech Driving Force GT racing wheel to *Goat Simulator* controls so I could drive the goat. My all-time favourite video games include *Persona 4 Golden*, *Overwatch 2*, *GRID Autosport*, *Mario Kart 7*, *Super Smash Bros. Melee*, *Pokémon Ruby*, *Tetris*, *KeyWe*, and *A Little to the Left*. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/628005941534523396/)]
+I enjoy playing video games even though I am objectively not very good at them. My proudest accomplishment has been sucessfully mapping my Logitech Driving Force GT racing wheel to *Goat Simulator* controls so I could drive the goat. My all-time favourite video games include *Persona 4 Golden*, *Overwatch 2*, *GRID Autosport*, *Mario Kart 7*, *Super Smash Bros. Melee*, *Pokémon Ruby*, *Tetris*, *KeyWe*, *PlateUp!* and *A Little to the Left*. [[Steam](https://steamcommunity.com/profiles/76561198216791821/), [Discord](https://discordapp.com/users/628005941534523396/)]
 
 **Consoles:** Nintendo Game Boy Color, Nintendo Game Boy Advance SP, Nintendo DS Lite, Nintendo 3DS, Nintendo GameCube, Sony PlayStation Vita, Sony PlayStation 4
 
@@ -135,7 +138,7 @@ I enjoy playing video games even though I am objectively not very good at them. 
 
 My photography journey began in 2007, when I received a pink toy camera from my godmother for Christmas. Not long after receiving it, I dropped it and broke it. Sadly, this will not be the last camera of mine to suffer this cruel fate.
 
-A few years later, I bought a black Sony Cyber-shot camera from the local Walmart. It was the first major (over CA$100!) purchase I'd ever made. Unfortunately, it fell off my lap and smashed against a tile floor during a family vacation to Florida, USA in 2011.
+A few years later, I bought a black Sony Cyber-shot camera from the local Walmart. It was the first major  purchase (over CA$100!) I'd ever made. Unfortunately, it fell off my lap and smashed against a tile floor during a family vacation to Florida, USA in 2011.
 
 Shortly after this, my dad got me an updated Sony Cyber-shot camera as a Christmas gift. The death of this camera was the most theatrical and tragic of all. It was a rainy day in New York City, USA. I was exploring the city with my brother, dad, and uncle. We were walking through Times Square when I saw a massive puddle. Naturally, I had the urge to jump over it. As I was jumping, the camera fell out of my pocket and into the puddle. I grabbed it out as quickly as I could, but it was too late. Slowly, the water seeped through its components. It took its last photograph in the American Museum of Natural History before drawing its last breath in my clumsy arms.
 

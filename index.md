@@ -4,13 +4,39 @@ title: Cheyenne Goh
 ---
 
 ## Skills
-Majority of the classes I took in my undergraduate degree were conducted in either Java or C/C++. I worked on academic projects that involved building machine learning models with TensorFlow and PyTorch, including my team's Capstone design project. I also have a practical understanding of front-end web development using ReactJS from collaborative term projects.
+Majority of the classes I took in my undergraduate degree were conducted in either Java or C/C++, while my postgraduate modules were taught primarily in Python. I have worked on academic assignments and projects that involved building machine learning models with TensorFlow and PyTorch, including my Capstone design project. I also have a practical understanding of front-end web development using ReactJS, and game development using Unity and C# from collaborative term projects. 
 
 During the summer of 2021, I worked a summer student position at Flexcim Services Inc., a small manufacturing company that specialises in injection moulding and CNC machining. I gained experience writing software in Python to manage MySQL databases and programming PLCs using ladder logic.
 
 From May 2022 to August 2023, I did a software internship at AMD. I contributed to [rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)/[hipFFT](https://github.com/ROCmSoftwarePlatform/hipFFT), an open-source library for computing Fast Fourier Transforms on AMD and NVIDIA GPU devices. I developed skills in GPU programming using C++, as well as prototyping and performance testing using Python.
 
+In November 2024, I started a research internship with the [Biocomputing and Development Systems](https://bds.ul.ie) Group in [Lero](https://lero.ie) to research the application of Grammatical Evolution in evolving machine learning models, with a focus on the evolution of NVIDIA CUDA kernels in C.
+
 ## Projects
+
+### Partial War (CS4096, University of Limerick)
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4bmmR2AKt4?si=4Iyn3n_QrmawnHFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+An RTS-inspired AI-vs-AI battle simulator game implemented in 3D using the Unity game engine.
+
+**Tools used:** Unity, C#, Git  
+**Collaborators:** Fethi Denker and Gerard O Connell
+
+### [Evolutionary Algorithms Diabetes Classification](https://github.com/cheyennegoh/Evolutionary-Algorithms-Diabetes-Classification) (CS6271, University of Limerick)
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Ok6f-XMtgA?si=D_FQCxOTpKin3FsX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+A model using Grammatical Evolution to classify a reduced-size version of the [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_012_health_indicators_BRFSS2015.csv) by Alex Teboul.
+
+Placed 2nd on the private leaderboard in the Kaggle Competition for the module.
+
+**Tools used:** DEAP, GRAPE, NumPy, pandas, scikit-learn, Colab  
+**Collaborator:** Fethi Denker
 
 ### [Wrist-based Gesture Recognition on Garmin Smartwatch](https://schulich.ucalgary.ca/sites/default/files/teams/4/2024%20Capstone/2024%20Capstone%20Projects/61875-14%20Wristbased%20Gesture%20Recognition%20on%20Garmin%20Smartwatch.pdf) (Engineering Design Fair 2024, University of Calgary)
 
@@ -118,7 +144,7 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 Since emigrating from Singapore to Canada in 2003, I have been to six provinces across the country (Alberta, British Columbia, New Brunswick, Ontario, Quebec, and Saskatchewan). I have also been able to return to Singapore fairly frequently over the years. In 2024, I moved to Ireland to undertake postgraduate studies.
 
-In total, I have set foot in 32 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, Cuba, France, Greece, the Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
+In total, I have set foot in 33 countries over five continents. I've visited Australia, Austria, The Bahamas, Belgium, Belize, Bulgaria, China, Cuba, France, Greece, the Holy See (Vatican), Honduras, Hungary, Indonesia, Italy, Japan, Malaysia, Mexico, Monaco, the Netherlands, the Philippines, Poland, Portugal, South Korea, Spain, the United Kingdom, and the United States. I have passed through Germany, the ROC (Taiwan), and the United Arab Emirates on layovers as well.
 
 ## Interests
 

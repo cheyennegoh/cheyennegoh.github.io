@@ -14,7 +14,7 @@ In November 2024, I started a research internship with the [Biocomputing and Dev
 
 ## Projects
 
-### Partial War (CS4096, University of Limerick)
+### *Partial War* <br/> (CS4096, University of Limerick)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4bmmR2AKt4?si=4Iyn3n_QrmawnHFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -25,7 +25,7 @@ An RTS-inspired AI-vs-AI battle simulator game implemented in 3D using the Unity
 **Tools used:** Unity, C#, Git  
 **Collaborators:** Fethi Denker and Gerard O Connell
 
-### [Evolutionary Algorithms Diabetes Classification](https://github.com/cheyennegoh/Evolutionary-Algorithms-Diabetes-Classification) (CS6271, University of Limerick)
+### *[Evolutionary Algorithms Diabetes Classification](https://github.com/cheyennegoh/Evolutionary-Algorithms-Diabetes-Classification)* <br/> (CS6271, University of Limerick)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Ok6f-XMtgA?si=D_FQCxOTpKin3FsX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -33,23 +33,23 @@ An RTS-inspired AI-vs-AI battle simulator game implemented in 3D using the Unity
 
 A model using Grammatical Evolution to classify a reduced-size version of the [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_012_health_indicators_BRFSS2015.csv) by Alex Teboul.
 
-Placed 2nd on the private leaderboard in the Kaggle Competition for the module.
+Placed 2nd out of 42 teams in the Kaggle Competition for the module.
 
 **Tools used:** DEAP, GRAPE, NumPy, pandas, scikit-learn, Colab  
 **Collaborator:** Fethi Denker
 
-### [Wrist-based Gesture Recognition on Garmin Smartwatch](https://schulich.ucalgary.ca/sites/default/files/teams/4/2024%20Capstone/2024%20Capstone%20Projects/61875-14%20Wristbased%20Gesture%20Recognition%20on%20Garmin%20Smartwatch.pdf) (Engineering Design Fair 2024, University of Calgary)
+### *[Wrist-based Gesture Recognition on Garmin Smartwatch](https://schulich.ucalgary.ca/sites/default/files/teams/4/2024%20Capstone/2024%20Capstone%20Projects/61875-14%20Wristbased%20Gesture%20Recognition%20on%20Garmin%20Smartwatch.pdf)* <br/> (Engineering Design Fair 2024, University of Calgary)
 
 ![Wrist-based Gesture Recognition on Garmin Smartwatch](/assets/images/wristbasedgesturerecognitionongarminsmartwatch.jpg)
 
 A system that uses machine learning to recognize gestures with a Garmin Venu 2 Plus smartwatch and execute associated actions on a paired Android smartphone. 
 
-Placed 2nd in the Software Engineering category. Sponsored by Garmin Canada.
+Placed 2nd out of 25 teams in the Software Engineering category. Sponsored by Garmin Canada.
 
 **Tools used:** PyTorch, TensorFlow Lite, Kotlin, Monkey C, PostgreSQL, Git  
 **Collaborators:** Maxwell Botham, Michele Esercitato, and Faisal Hossain
 
-### [Flower Image Classification](https://github.com/cheyennegoh/Flower-Image-Classification) (ENEL 525, University of Calgary)
+### *[Flower Image Classification](https://github.com/cheyennegoh/Flower-Image-Classification)* <br/> (ENEL 525, University of Calgary)
 
 ![Flower Image Classification](/assets/images/flowersimagerecognition.jpg)
 
@@ -57,7 +57,7 @@ A machine learning model built using Python that uses a convolutional neural net
 
 **Tools used:** TensorFlow, scikit-learn, Matplotlib, NumPy, OpenCV
 
-### [Estates](https://github.com/jacob-kn/Estates) (CPSC 471, University of Calgary)
+### *[Estates](https://github.com/jacob-kn/Estates)* <br/> (CPSC 471, University of Calgary)
 
 <div class ="estatesSlide">
 <img src="/assets/images/estates1.jpg">
@@ -70,14 +70,14 @@ A real estate web application implemented using the MERN stack for buyers, selle
 **Tools used:** ReactJS, NodeJS, ExpressJS, MongoDB Atlas, Git  
 **Collaborators:** Jacob Nguyen and Adeshpal Virk
 
-### [BetterBoxd](https://github.com/Mik-Ese/BetterBoxd) (SENG 401, University of Calgary)
+### *[BetterBoxd](https://github.com/Mik-Ese/BetterBoxd)* <br/> (SENG 401, University of Calgary)
 
 A movie discovery and social media web application for users to browse through movies, read reviews, create and view lists of movies, and log movies into their own personal journal.
 
 **Tools used:** ReactJS, ExpressJS, MongoDB Atlas, Redis, Docker, Kubernetes, Git  
 **Collaborators:** Maxwell Botham, Michele Esercitato, Ethan Gill, Arne Hilao, Faisal Hossain, and Lucas Ion
 
-### [Rent'R'Us](https://github.com/DG-20/ENSF-480-Term-Project) (ENSF 480, University of Calgary)
+### *[Rent'R'Us](https://github.com/DG-20/ENSF-480-Term-Project)* <br/> (ENSF 480, University of Calgary)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zij8uwpPohE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -88,7 +88,7 @@ A Java implementation of a rental property management system for renters to brow
 **Tools used:** Java, MySQL, Git  
 **Collaborators:** Divyansh Goyal, Rui Guan, and Sajid Hafiz
 
-### [Faculty FrankenFurniture Finder](https://github.com/March-27-Hackathon/supply-chain-management-habibjinadu) (HYL Hackathon 2021, University of Calgary)
+### *[Faculty FrankenFurniture Finder](https://github.com/March-27-Hackathon/supply-chain-management-habibjinadu)* <br/> (HYL Hackathon 2021, University of Calgary)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wybm1jC9huU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -99,7 +99,7 @@ A user-friendly application that facilitates the supply chain management of furn
 **Tools used:** Java, MySQL, Git  
 **Collaborators:** Carter Fuchs, Habib Jinadu, and Logan Jones
 
-### [Digital Dashboard](https://github.com/cheyennegoh/Digital-Dashboard) (ENGG 233, University of Calgary)
+### *[Digital Dashboard](https://github.com/cheyennegoh/Digital-Dashboard)* <br/> (ENGG 233, University of Calgary)
 
 <div class ="digitalDashboardSlide">
 <img src="/assets/images/digitaldashboard1.png">

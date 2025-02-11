@@ -10,11 +10,11 @@ During the summer of 2021, I worked a summer student position at Flexcim Service
 
 From May 2022 to August 2023, I did a software internship at AMD. I contributed to [rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)/[hipFFT](https://github.com/ROCmSoftwarePlatform/hipFFT), an open-source library for computing Fast Fourier Transforms on AMD and NVIDIA GPU devices. I developed skills in GPU programming using C++, as well as prototyping and performance testing using Python.
 
-In November 2024, I started a research internship with the [Biocomputing and Development Systems](https://bds.ul.ie) Group in [Lero](https://lero.ie) to research the application of Grammatical Evolution in evolving machine learning models, with a focus on the evolution of NVIDIA CUDA kernels in C.
+In November 2024, I started a research internship with the [Biocomputing and Development Systems](https://bds.ul.ie) Group in [Lero](https://lero.ie) to research the application of Grammatical Evolution in evolving machine learning models as GPU programs, with a focus on the evolution of NVIDIA CUDA kernels in C.
 
 ## Projects
 
-### *Partial War* <br/> (CS4096, University of Limerick)
+### *[Partial War](https://github.com/fethidenker/AI_Games)* <br/> (CS4096, University of Limerick)
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4bmmR2AKt4?si=4Iyn3n_QrmawnHFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -151,9 +151,9 @@ A simulation of a digital dashboard for consumer vehicles that takes input senso
 
 ### Athletic
 
-- **[PyeongChang 2018 Olympic Winter Games](https://olympics.com/en/olympic-games/pyeongchang-2018/results/short-track/ladies-1500m) (Gangneung, South Korea)** - 28th in 1500-m short track speed skating representing Singapore
+- **[PyeongChang 2018 Olympic Winter Games](https://olympics.com/en/olympic-games/pyeongchang-2018/results/short-track/ladies-1500m) (Gangneung, South Korea)** - 28th in Women's 1,500 metres Short Track Speed Skating representing Singapore
 - **[2016 ITU Duathlon World Championships](https://www.triathlon.org/results/result/2016_aviles_itu_duathlon_world_championships/281061) (Aviles, Spain)** - 9th in 16-19 Female Age Group Sprint representing Canada
-- **[2017 Global Relay Canadian Road Championships p/b Lexus](https://www.rsstiming.com/Resultats/2017RoadCanChamp/C07-Road-R-JRW.pdf) (Ottawa, Ontario/Gatineau, Quebec)** - 18th in Junior Road Race representing Team Alberta
+- **[2017 Global Relay Canadian Road Championships p/b Lexus](https://www.rsstiming.com/Resultats/2017RoadCanChamp/C07-Road-R-JRW.pdf) (Ottawa, Ontario/Gatineau, Quebec)** - 18th in Junior Women Road Race representing Team Alberta
 
 <div class ="athleticSlide">
 <img src="/assets/images/shorttrack.jpg">

@@ -34,7 +34,7 @@ An AWS cloud ecosystem to deploy TencentARC's [GFP-GAN](https://github.com/Tence
 
 ![ASLXception](/assets/images/aslxception.png)
 
-A machine learning model based on the Xception convolutional neural network architecture for the task of image classification the [ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) dataset by Akash Nagaraj.
+A machine learning model based on the Xception convolutional neural network architecture for image classification of the [ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) dataset by Akash Nagaraj.
 
 **Tools used:** TensorFlow, scikit-learn, Matplotlib, NumPy, pandas, Colab  
 **Collaborator:** Fethi Denker

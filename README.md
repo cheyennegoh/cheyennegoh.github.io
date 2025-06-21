@@ -1,2 +1,2 @@
-# [Cheyenne Goh](https://cheyennegoh.github.io)
+# [Cheyenne Goh](https://cheyennegoh.com)
 Personal Website

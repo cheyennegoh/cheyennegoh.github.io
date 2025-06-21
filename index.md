@@ -10,9 +10,34 @@ During the summer of 2021, I worked a summer student position at Flexcim Service
 
 From May 2022 to August 2023, I did a software internship at AMD. I contributed to [rocFFT](https://github.com/ROCmSoftwarePlatform/rocFFT)/[hipFFT](https://github.com/ROCmSoftwarePlatform/hipFFT), an open-source library for computing Fast Fourier Transforms on AMD and NVIDIA GPU devices. I developed skills in GPU programming using C++, as well as prototyping and performance testing using Python.
 
-In November 2024, I started a research internship with the [Biocomputing and Development Systems](https://bds.ul.ie) Group in [Lero](https://lero.ie) to research the application of Grammatical Evolution in evolving machine learning models as GPU programs, with a focus on the evolution of NVIDIA CUDA kernels in C.
+In November 2024, I started a research internship with the [Biocomputing and Developmental Systems](https://bds.ul.ie) Group in [Lero](https://lero.ie) to research the application of Grammatical Evolution in evolving machine learning models as GPU programs, with a focus on the evolution of NVIDIA CUDA kernels in C.
 
 ## Projects
+
+### *[Reinforcement Learning Atari Breakout](https://github.com/cheyennegoh/Reinforcement-Learning-Atari-Breakout)* <br/> (CS6482, University of Limerick)
+
+![Reinforcement Learning Atari Breakout](/assets/images/reinforcementlearningataribreakout.gif)
+
+A reinforcement learning agent that uses a deep Q-network to learn to play the Atari 2600 game Breakout directly from gameplay frames.
+
+**Tools used:** TensorFlow, PyTorch, Gymnasium, Arcade Learning Environment, Matplotlib, NumPy
+
+### *[Image Restoration](https://github.com/cheyennegoh/Image-Restoration)* <br/> (CS5024, University of Limerick)
+
+![Image Restoration](/assets/images/imagerestoration.png)
+
+An AWS cloud ecosystem to deploy TencentARC's [GFP-GAN](https://github.com/TencentARC/GFPGAN) machine learning model for the image restoration of portrait photographs.
+
+**Tools used:** Amazon S3, Amazon API Gateway, AWS Lambda, AWS Systems Manager, Amazon EC2, AWS IAM, Amazon CloudWatch
+
+### *[ASLXception](https://github.com/cheyennegoh/ASLXception)* <br/> (CS6482, University of Limerick)
+
+![ASLXception](/assets/images/aslxception.png)
+
+A machine learning model based on the Xception convolutional neural network architecture for the task of image classification the [ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) dataset by Akash Nagaraj.
+
+**Tools used:** TensorFlow, scikit-learn, Matplotlib, NumPy, pandas  
+**Collaborator:** Fethi Denker
 
 ### *[Partial War](https://github.com/fethidenker/AI_Games)* <br/> (CS4096, University of Limerick)
 

@@ -3334,8 +3334,11 @@ a img {
   border: none; }
 
 img {
+  display: block;
   width: 100%;
-  height: auto; }
+  height: auto;
+  margin-left: auto;
+  margin-right: auto; }
   @media only screen and (min-width: 768px) {
     img {
       width: 75%; } }
@@ -3360,30 +3363,23 @@ a {
       width: 50%; } }
 
 .videoWrapper {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0; }
-  @media only screen and (min-width: 768px) {
-    .videoWrapper {
-      padding-bottom: 42.1875%; } }
+  text-align: center; }
 
 .videoWrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
-  height: 100%; }
+  height: unset;
+  aspect-ratio: 16 / 9; }
   @media only screen and (min-width: 768px) {
     .videoWrapper iframe {
-      width: 75%;
-      height: 100%; } }
+      width: 75%; } }
 
 .estatesSlide {
   position: relative;
-  overflow: hidden;
   width: 100%;
   height: 100%;
-  padding-bottom: 71.7503%; }
+  padding-bottom: 71.7503%;
+  margin-left: auto;
+  margin-right: auto; }
   @media only screen and (min-width: 768px) {
     .estatesSlide {
       width: 75%;
@@ -3417,10 +3413,11 @@ a {
 
 .digitalDashboardSlide {
   position: relative;
-  overflow: hidden;
   width: 100%;
   height: 100%;
-  padding-bottom: 62.6%; }
+  padding-bottom: 62.6%;
+  margin-left: auto;
+  margin-right: auto; }
   @media only screen and (min-width: 768px) {
     .digitalDashboardSlide {
       width: 75%;
@@ -3454,15 +3451,15 @@ a {
 
 .athleticSlide {
   position: relative;
-  overflow: hidden;
   width: 100%;
   height: 100%;
-  padding-bottom: 66.6667%; }
+  padding-bottom: 66.6667%;
+  margin-left: auto;
+  margin-right: auto; }
   @media only screen and (min-width: 768px) {
     .athleticSlide {
       width: 75%;
-      padding-bottom: 50%;
-      padding-left: 40px; } }
+      padding-bottom: 50%; } }
 
 .athleticSlide img {
   position: absolute;

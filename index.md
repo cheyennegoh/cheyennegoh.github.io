@@ -20,7 +20,7 @@ In November 2024, I started a research internship with the [Biocomputing and Dev
 
 A reinforcement learning agent that uses a deep Q-network to learn to play the Atari 2600 game Breakout directly from gameplay frames.
 
-**Tools used:** TensorFlow, PyTorch, Gymnasium, Arcade Learning Environment, Matplotlib, NumPy
+**Tools used:** TensorFlow, PyTorch, Gymnasium, Arcade Learning Environment, Matplotlib, NumPy, Colab
 
 ### *[Image Restoration](https://github.com/cheyennegoh/Image-Restoration)* <br/> (CS5024, University of Limerick)
 
@@ -36,7 +36,7 @@ An AWS cloud ecosystem to deploy TencentARC's [GFP-GAN](https://github.com/Tence
 
 A machine learning model based on the Xception convolutional neural network architecture for the task of image classification the [ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) dataset by Akash Nagaraj.
 
-**Tools used:** TensorFlow, scikit-learn, Matplotlib, NumPy, pandas  
+**Tools used:** TensorFlow, scikit-learn, Matplotlib, NumPy, pandas, Colab  
 **Collaborator:** Fethi Denker
 
 ### *[Partial War](https://github.com/fethidenker/AI_Games)* <br/> (CS4096, University of Limerick)
